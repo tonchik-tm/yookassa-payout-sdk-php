@@ -1,5 +1,5 @@
 {
-    "name": "yoomoney/yookassa-payout-sdk-php",
+    "name": "tonchik-tm/yookassa-payout-sdk-php",
     "description": "You can automate payouts by integrating with YooMoney for Business via the protocol of mass payouts.",
     "type": "library",
     "license": "MIT",
